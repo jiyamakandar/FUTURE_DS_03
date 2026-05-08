@@ -3,9 +3,9 @@
 
 ## 🚀 Project Overview
 
-This project focuses on analyzing customer behavior and conversion performance using e-commerce marketing funnel data. The goal was to understand how users move through the funnel stages — from viewing products to completing purchases — and identify major conversion drop-offs, customer trends, and revenue opportunities.
+This project focuses on analyzing customer behavior and conversion performance using e-commerce marketing funnel data. The goal was to understand how users move through the funnel stages  from viewing products to completing purchases —and identify major conversion drop-offs, customer trends, and revenue opportunities.
 
-The project was completed as part of the **Data Science & Analytics Internship – Task 3 by Future Interns** using **Python** and **Power BI**.
+The project was completed as part of the **Data Science & Analytics Internship – Task 03 by Future Interns** using **Python** and **Power BI**.
 
 ---
 
